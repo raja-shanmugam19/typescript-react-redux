@@ -49,6 +49,7 @@
     "@types/chai": "^4.3.5",
     "@types/jest": "^29.5.1",
     "@types/styled-components": "^5.1.26",
+    "chai": "^4.3.7",
     "ts-jest": "^29.1.0"
   }
 }
