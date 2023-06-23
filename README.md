@@ -1,4 +1,4 @@
-# OVC-Interview-Test
+# typescript-react-redux
 
 This is a project for demonstrating how to use React Context and Hooks with TypeScript.
 
